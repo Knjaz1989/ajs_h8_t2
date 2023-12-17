@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "map",
   "version": "1.0.0",
   "description": "h2",
